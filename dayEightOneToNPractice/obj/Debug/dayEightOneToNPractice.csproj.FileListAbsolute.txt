@@ -1,0 +1,5 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\dayEightOneToNPractice\dayEightOneToNPractice\bin\Debug\dayEightOneToNPractice.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\dayEightOneToNPractice\dayEightOneToNPractice\bin\Debug\dayEightOneToNPractice.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\dayEightOneToNPractice\dayEightOneToNPractice\bin\Debug\dayEightOneToNPractice.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\dayEightOneToNPractice\dayEightOneToNPractice\obj\Debug\dayEightOneToNPractice.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\dayEightOneToNPractice\dayEightOneToNPractice\obj\Debug\dayEightOneToNPractice.pdb
